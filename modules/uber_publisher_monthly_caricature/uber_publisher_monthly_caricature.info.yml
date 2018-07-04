@@ -25,5 +25,5 @@ dependencies:
   - views_bootstrap
   - views_infinite_scroll
   - yoast_seo
-version: 8.x-1.x-dev
+version: 8.x-5.x-dev
 package: 'Uber Publisher'

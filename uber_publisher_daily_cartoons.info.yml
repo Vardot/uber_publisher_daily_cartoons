@@ -1,5 +1,5 @@
-name: 'Uber Publisher Daily Caricature'
-description: 'Uber Publisher caricature for giving fun to the readers.'
+name: 'Uber Publisher Daily Cartoons'
+description: 'Provide fun cartoons to readers.'
 type: module
 core: 8.x
 dependencies:
@@ -35,5 +35,5 @@ dependencies:
   - views
   - views_bootstrap
   - views_infinite_scroll
-version: 8.x-4.x-dev
+version: 8.x-5.x-dev
 package: 'Uber Publisher'
