@@ -10,7 +10,7 @@ dependencies:
     - field.field.node.caricature.field_image_file
     - field.field.node.caricature.field_meta_tags
     - node.type.caricature
-    - responsive_image.styles.d4_traditional
+    - responsive_image.styles.d04_traditional
   module:
     - datetime
     - ds
@@ -80,7 +80,7 @@ content:
     weight: 0
     label: hidden
     settings:
-      responsive_image_style: d4_traditional
+      responsive_image_style: d04_traditional
       image_link: content
     third_party_settings: {  }
     type: responsive_image

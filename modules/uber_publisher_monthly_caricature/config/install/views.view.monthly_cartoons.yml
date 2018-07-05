@@ -6,9 +6,9 @@ dependencies:
     - field.storage.node.field_image_file
     - field.storage.node.field_year_month
     - node.type.caricature
-    - responsive_image.styles.d1_square
-    - responsive_image.styles.d1_traditional
-    - responsive_image.styles.d9_standard
+    - responsive_image.styles.d01_square
+    - responsive_image.styles.d01_traditional
+    - responsive_image.styles.d09_standard
   module:
     - datetime
     - node
@@ -121,7 +121,7 @@ display:
           click_sort_column: target_id
           type: responsive_image
           settings:
-            responsive_image_style: d1_traditional
+            responsive_image_style: d01_traditional
             image_link: content
           group_column: ''
           group_columns: {  }
@@ -789,7 +789,7 @@ display:
           click_sort_column: target_id
           type: responsive_image
           settings:
-            responsive_image_style: d9_standard
+            responsive_image_style: d09_standard
             image_link: ''
           group_column: ''
           group_columns: {  }
@@ -918,7 +918,7 @@ display:
           click_sort_column: target_id
           type: responsive_image
           settings:
-            responsive_image_style: d1_square
+            responsive_image_style: d01_square
             image_link: ''
           group_column: ''
           group_columns: {  }
@@ -1478,7 +1478,7 @@ display:
           click_sort_column: target_id
           type: responsive_image
           settings:
-            responsive_image_style: d1_square
+            responsive_image_style: d01_square
             image_link: content
           group_column: ''
           group_columns: {  }

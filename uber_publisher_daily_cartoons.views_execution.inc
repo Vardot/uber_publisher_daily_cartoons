@@ -3,7 +3,7 @@
 /**
  * Implements hook_views_query_alter().
  */
-function uber_publisher_daily_caricature_views_query_alter($view, $query) {
+function uber_publisher_daily_cartoons_views_query_alter($view, $query) {
   if ($view->id() == 'cartoons' && $view->current_display == 'cartoons_list') {
     foreach ($query->where as &$condition_group) {
       foreach ($condition_group['conditions'] as &$condition) {

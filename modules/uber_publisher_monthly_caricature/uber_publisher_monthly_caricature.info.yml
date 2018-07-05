@@ -18,7 +18,7 @@ dependencies:
   - slick_views
   - text
   - uber_publisher_core
-  - uber_publisher_daily_caricature
+  - uber_publisher_daily_cartoons
   - user
   - varbase_media
   - views
