@@ -12,7 +12,6 @@ dependencies:
   - metatag
   - node
   - page_manager
-  - panelizer
   - panels
   - responsive_image
   - slick_views
