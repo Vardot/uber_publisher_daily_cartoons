@@ -1,7 +1,8 @@
 name: 'Uber Publisher Daily Cartoons'
 description: 'Provide fun cartoons to readers.'
 type: module
-core: 8.x
+package: 'Uber Publisher'
+core_version_requirement: ^9
 dependencies:
   - comment
   - content_moderation
@@ -34,5 +35,3 @@ dependencies:
   - views
   - views_bootstrap
   - views_infinite_scroll
-version: 8.x-6.x-dev
-package: 'Uber Publisher'

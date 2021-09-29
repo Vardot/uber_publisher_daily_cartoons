@@ -1,9 +1,17 @@
 <?php
 
+/**
+ * @file
+ * Contains uber_publisher_daily.module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
 function uber_publisher_daily_cartoons_theme($existing, $type, $theme, $path) {
   return [
     'field__default__node__dynamic_block_field__node_cartoons_list' => [
       'base hook' => 'field',
-    ]
+    ],
   ];
 }

@@ -1,7 +1,8 @@
 name: 'Uber Publisher Monthly Caricature'
 description: 'Uber Publisher caricature for give fun to the readers.'
 type: module
-core: 8.x
+package: 'Uber Publisher'
+core_version_requirement: ^9
 dependencies:
   - content_moderation
   - ctools
@@ -24,5 +25,3 @@ dependencies:
   - views_bootstrap
   - views_infinite_scroll
   - yoast_seo
-version: 8.x-6.x-dev
-package: 'Uber Publisher'
