@@ -1,6 +1,11 @@
 # Uber Publisher Daily Cartoons
 
+Provide fun cartoons to readers.
+
 This is an [Uber Publisher](https://www.drupal.org/project/uber_publisher)
  feature.
 
-Provide fun cartoons to readers.
+Join Our Slack Team for Feedback and Support 
+http://slack.varbase.vardot.com/
+
+This module is sponsored and developed by [Vardot](https://www.drupal.org/vardot).
